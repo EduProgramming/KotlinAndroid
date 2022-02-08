@@ -1,3 +1,8 @@
 - with Kotlin
   - [Hello, 안드로이드](/hello/hello_android.md)
   - [Hello, Kotlin](/kotlin/hello_kotlin.md)
+  - [Kotlin 변수](/kotlin/kotlin_variable.md)
+  - [Kotlin Collection](/kotlin/kotlin_collection.md)
+  - [Kotlin 가정문](/kotlin/kotlin_conditional.md)
+  - [Kotlin 반복문](/kotlin/kotlin_loop.md)
+  - [Kotlin 함수](/kotlin/kotlin_function.md)
