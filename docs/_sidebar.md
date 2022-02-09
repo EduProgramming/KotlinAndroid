@@ -11,3 +11,4 @@
   - [Kotlin 상속](/kotlin/kotlin_inheritance.md)
   - [Kotlin 클래스의 종류](/kotlin/kotlin_kind_class.md)
   - [Kotlin Lambda](/kotlin/kotlin_lambda.md)
+  - [Kotlin Null안전성](/kotlin/kotlin_safe_null.md)
