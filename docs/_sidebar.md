@@ -9,3 +9,5 @@
   - [Kotlin 함수](/kotlin/kotlin_function.md)
   - [Kotlin 클래스](/kotlin/kotlin_class.md)
   - [Kotlin 상속](/kotlin/kotlin_inheritance.md)
+  - [Kotlin 클래스의 종류](/kotlin/kotlin_kind_class.md)
+  - [Kotlin Lambda](/kotlin/kotlin_lambda.md)
