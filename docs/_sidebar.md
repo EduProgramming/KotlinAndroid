@@ -6,3 +6,5 @@
   - [Kotlin 가정문](/kotlin/kotlin_conditional.md)
   - [Kotlin 반복문](/kotlin/kotlin_loop.md)
   - [Kotlin 함수](/kotlin/kotlin_function.md)
+  - [Kotlin 함수](/kotlin/kotlin_function.md)
+  - [Kotlin 클래스](/kotlin/kotlin_class.md)
