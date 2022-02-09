@@ -8,3 +8,4 @@
   - [Kotlin 함수](/kotlin/kotlin_function.md)
   - [Kotlin 함수](/kotlin/kotlin_function.md)
   - [Kotlin 클래스](/kotlin/kotlin_class.md)
+  - [Kotlin 상속](/kotlin/kotlin_inheritance.md)
