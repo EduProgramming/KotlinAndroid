@@ -13,3 +13,4 @@
   - [Kotlin Lambda](/kotlin/kotlin_lambda.md)
   - [Kotlin Null안전성](/kotlin/kotlin_safe_null.md)
   - [Android View](/android/android_view.md)
+  - [Android Layout](/android/android_layout.md)
