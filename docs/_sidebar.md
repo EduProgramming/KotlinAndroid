@@ -12,3 +12,4 @@
   - [Kotlin 클래스의 종류](/kotlin/kotlin_kind_class.md)
   - [Kotlin Lambda](/kotlin/kotlin_lambda.md)
   - [Kotlin Null안전성](/kotlin/kotlin_safe_null.md)
+  - [Android View](/android/android_view.md)
